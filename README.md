@@ -22,3 +22,11 @@
 #### NPM Versions ####
 
 npm semver calculator - https://semver.npmjs.com/
+
+### Deploy ###
+
+[<img src="https://user-images.githubusercontent.com/74174349/120636033-d218f200-c475-11eb-834f-18f8a1b39bf6.jpg" alt="drawing" width="50"/>](https://www.netlify.com/)
+
+
+
+
