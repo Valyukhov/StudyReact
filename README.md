@@ -17,15 +17,14 @@
 
 ### Open Source ###
 
-[<img src="https://user-images.githubusercontent.com/74174349/120633194-89136e80-c472-11eb-8127-1a422163e91d.jpg" alt="drawing" width="50"/>](https://www.npmjs.com/)
+#### Publish ####
 
-#### NPM Versions ####
-
-npm semver calculator - https://semver.npmjs.com/
+* npm - [<img src="https://user-images.githubusercontent.com/74174349/120637915-2624d600-c478-11eb-9bad-124700116648.jpg" alt="drawing" width="50"/>](https://www.npmjs.com/)
+* npm semver calculator - https://semver.npmjs.com/
 
 ### Deploy ###
 
-[<img src="https://user-images.githubusercontent.com/74174349/120636033-d218f200-c475-11eb-834f-18f8a1b39bf6.jpg" alt="drawing" width="50"/>](https://www.netlify.com/)
+* netlify [<img src="https://user-images.githubusercontent.com/74174349/120636033-d218f200-c475-11eb-834f-18f8a1b39bf6.jpg" alt="drawing" width="70"/>](https://www.netlify.com/)
 
 
 
