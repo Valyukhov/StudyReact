@@ -3,12 +3,17 @@
 
 ## React ##
 
+
 ### RCL Tutorial ###
 
 * https://forum.door43.org/t/component-libraries/396
 * https://medium.com/@colonmanuel7/starting-a-react-component-library-at-unfoldingword-1fe623ed9a5
 * https://blog.logrocket.com/the-complete-guide-to-building-headless-interface-components-in-react/
 * https://tproger.ru/articles/kak-stat-react-razrabotchikom-v-2021-dorozhnaja-karta/
+
+### For beginner's ###
+
+* The Beginner's Guide to React - https://egghead.io/courses/the-beginner-s-guide-to-react
 
 ### Headless components ###
 * https://medium.com/cstech/headless-ui-components-creating-re-usable-logic-without-thinking-about-design-69ac9fad6400
