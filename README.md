@@ -8,7 +8,6 @@
 
 * https://forum.door43.org/t/component-libraries/396
 * https://medium.com/@colonmanuel7/starting-a-react-component-library-at-unfoldingword-1fe623ed9a5
-* https://blog.logrocket.com/the-complete-guide-to-building-headless-interface-components-in-react/
 * https://tproger.ru/articles/kak-stat-react-razrabotchikom-v-2021-dorozhnaja-karta/
 
 ### For beginner's ###
