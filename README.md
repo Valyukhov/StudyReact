@@ -21,7 +21,7 @@
 
 ### Open Source ###
 
-#### Publish ####
+### Publish ###
 
 * npm - [<img src="https://user-images.githubusercontent.com/74174349/120637915-2624d600-c478-11eb-9bad-124700116648.jpg" alt="drawing" width="50"/>](https://www.npmjs.com/)
 * npm semver calculator - https://semver.npmjs.com/
