@@ -30,6 +30,11 @@
 
 * netlify [<img src="https://user-images.githubusercontent.com/74174349/120636033-d218f200-c475-11eb-834f-18f8a1b39bf6.jpg" alt="drawing" width="70"/>](https://www.netlify.com/)
 
-
+### Просмотр объединенных коммитов ###
+https://github.com/texttree/bsa/compare/feature-bible-ref-rcl^^^^...feature-bible-ref-rcl
+ветка^...название ветки
+^-кол-во последних коммитов
+https://github.com/texttree/bsa/compare/c72b8668..1753ff2f930
+ветка/коммит с которого нужен просмотр...последний коммит
 
 
