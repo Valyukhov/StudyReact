@@ -38,3 +38,4 @@ https://github.com/texttree/bsa/compare/c72b8668..1753ff2f930
 ветка/коммит с которого нужен просмотр...последний коммит
 
 https://github.com/unfoldingWord/scripture-resources-rcl/compare/eb4e9b8150d4df5a092464dda81ce6934f19e20a...1c6d06ead85fdda6f9cb272327983c8f3e3678ef - просмотр scripture-resources-rcl c 4.2.0 до 5.1.1
+https://github.com/unfoldingWord/resource-workspace-rcl/compare/0fff138ba72a408eda5fe4a0ec6e8d6fe4e6dd16...d793ce99af59b2867ca25fdd191a52b445e25a91
