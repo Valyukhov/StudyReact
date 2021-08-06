@@ -37,4 +37,4 @@ https://github.com/texttree/bsa/compare/feature-bible-ref-rcl^^^^...feature-bibl
 https://github.com/texttree/bsa/compare/c72b8668..1753ff2f930
 ветка/коммит с которого нужен просмотр...последний коммит
 
-
+https://github.com/unfoldingWord/scripture-resources-rcl/compare/eb4e9b8150d4df5a092464dda81ce6934f19e20a...1c6d06ead85fdda6f9cb272327983c8f3e3678ef - просмотр scripture-resources-rcl c 4.2.0 до 5.1.1
