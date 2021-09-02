@@ -41,5 +41,5 @@ https://github.com/unfoldingWord/scripture-resources-rcl/compare/eb4e9b8150d4df5
 https://github.com/unfoldingWord/resource-workspace-rcl/compare/0fff138ba72a408eda5fe4a0ec6e8d6fe4e6dd16...d793ce99af59b2867ca25fdd191a52b445e25a91
 
 ### Testing ###
-
+https://habr.com/ru/company/infowatch/blog/315760/ 
 
