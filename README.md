@@ -43,3 +43,17 @@ https://github.com/unfoldingWord/resource-workspace-rcl/compare/0fff138ba72a408e
 ### Testing ###
 https://habr.com/ru/company/infowatch/blog/315760/ 
 
+https://ru.reactjs.org/docs/testing.html
+
+https://testing-library.com/docs/react-testing-library/intro/
+
+https://jestjs.io/ru/
+
+https://github.com/unfoldingWord/bible-reference-rcl/tree/main/__tests__
+
+https://github.com/unfoldingWord/tsv-groupdata-parser/tree/master/__tests__
+
+https://github.com/unfoldingWord/string-punctuation-tokenizer/tree/develop/src/__tests__
+
+https://forproger.ru/article/testirovanie-prilozhenij-s-pomoshhyu-jest-i-react-testing-library
+
