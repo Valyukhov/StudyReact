@@ -56,4 +56,5 @@ https://github.com/unfoldingWord/tsv-groupdata-parser/tree/master/__tests__
 https://github.com/unfoldingWord/string-punctuation-tokenizer/tree/develop/src/__tests__
 
 https://forproger.ru/article/testirovanie-prilozhenij-s-pomoshhyu-jest-i-react-testing-library
+![pic](https://user-images.githubusercontent.com/74174349/146333046-9c623fe4-6589-4a4e-b862-049b4a5c548f.png)
 
